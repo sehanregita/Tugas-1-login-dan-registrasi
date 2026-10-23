@@ -1,0 +1,54 @@
+
+body {
+    background-color: #07845c;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px 15px;
+}
+
+.kotak {
+    background-color: #c9e4d8;
+    width: 320px;
+    max-width: 85%;
+    margin: 0 auto;
+    padding: 25px;
+    color: #222;
+}
+
+h2 {
+    font-size: 26px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 11px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+a {
+    color: #648a75;
+}
+
+button {
+    width: 100%;
+    padding: 11px;
+    background-color: #429c61;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+button:hover {
+    background-color: #35834f;
+}
+
+p {
+    margin-top: 18px;
+}
